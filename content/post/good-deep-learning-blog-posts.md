@@ -9,9 +9,9 @@ I am an avid reader and spend a lot of time commuting between home and work. I u
 
 ## Starters
 
-### A brief overview of deep learning - Ilya Sutskever
+### [A brief overview of deep learning - Ilya Sutskever](http://yyue.blogspot.in/2015/01/a-brief-overview-of-deep-learning.html)
 
-[This](http://yyue.blogspot.in/2015/01/a-brief-overview-of-deep-learning.html) blog post by [Ilya Sutskever](http://www.cs.toronto.edu/~ilya/), also a research director at [OpenAI](https://openai.com) is one of the must read posts for any one diving into deep learning for practical applications. It gives you an insight into why it works, some things you must keep in mind for practical purposes and if you love it, you can just dive into comments section for some cool conversation between [Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) and Ilya.
+This blog post by [Ilya Sutskever](http://www.cs.toronto.edu/~ilya/), also a research director at [OpenAI](https://openai.com) is one of the must read posts for any one diving into deep learning for practical applications. It gives you an insight into why it works, some things you must keep in mind for practical purposes and if you love it, you can just dive into comments section for some cool conversation between [Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) and Ilya.
 
 ## Main Course
 
