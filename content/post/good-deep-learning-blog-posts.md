@@ -18,3 +18,7 @@ This blog post by [Ilya Sutskever](http://www.cs.toronto.edu/~ilya/), also a res
 ## Desserts
 
 ## Side dishes
+
+### [The extraordinary link between deep neural networks and the nature of the universe - Henry Lin (Harvard) and Max Tegmark (MIT) ](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
+
+"Why deep learning works?" - This is one of the most intriguing questions for all involved in deep learning. We try to convince ourselves giving various answers for the question, similarity with the eye structure, universal approximator, etc. Our friends from MIT and Harvard have come up with a much better, mathematical but still a bit vague explanation for the success of deep learning, by comparing the laws used to predict physical phenomenons and how we can derive complete physics using few rules and parameters, thus explaining the whole world around us. For similar reasons, all visual information can be explained/derived from small parameters. The blog gives a beautiful insight into this relation and for more mathematical treatment one can look into the [paper](http://arxiv.org/abs/1608.08225).
