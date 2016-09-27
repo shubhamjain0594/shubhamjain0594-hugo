@@ -17,6 +17,10 @@ This blog post by [Ilya Sutskever](http://www.cs.toronto.edu/~ilya/), also a res
 
 ## Desserts
 
+### [Hyperparameter optimization by efficient configuration evaluation](http://www.argmin.net/2016/06/23/hyperband/)
+
+One of the major challenges in deep learning is how you select the hyper-parameters for your training or for post processing in some cases. There are numerous techniques for hyper-parameter search, [random-search optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf) by Bergstra et.al'12 is one of the heavily used techniques. [This](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization.pdf) paper by Bergstra, Bengio highlights some of the algorithms used. In this blog, author introduces a new algorithm known as Hyperband which uses random search algorithm and uses simple technique of divide and rule to optimize. The results by the optimization are promising and is a very simple algorithm to understand and implement. One can find the complete paper [here](https://people.eecs.berkeley.edu/~kjamieson/hyperband.html).
+
 ## Side dishes
 
 ### [The extraordinary link between deep neural networks and the nature of the universe - Henry Lin (Harvard) and Max Tegmark (MIT) ](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
