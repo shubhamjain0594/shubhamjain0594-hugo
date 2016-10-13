@@ -15,6 +15,10 @@ This blog post by [Ilya Sutskever](http://www.cs.toronto.edu/~ilya/), also a res
 
 ## Main Course
 
+### [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
+
+If you have just started deep learning and have run a model over MNIST, then this is a must read post. Last few years have seen number of optimization algorithms for learning weights of a neural net. From Gradient Descent to Adaboost, we are left with many choices. This post lists down all the optimization algorithms, some mathematics and intuition behind it and the default parameters you may like to play with. A very comprehensize survey, it is again a must read article if you are doing applied deep learning for something serious.
+
 ## Desserts
 
 ### [Hyperparameter optimization by efficient configuration evaluation](http://www.argmin.net/2016/06/23/hyperband/)

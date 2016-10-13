@@ -14,3 +14,7 @@ Deep learning and Neural Networks have some really cool applications (ideas), an
 ## Detecting the Programming Language of Source Code Snippets using Machine Learning and Neural Networks
 
 I came across [this](http://danielheres.space/jekyll/update/2016/07/18/detecting-the-programming-language-of-source-code-snippets-using-machine-learning-and-neural-networks.html) blog post while searching for something related to compilation. I found this idea very appreciative and that can be implemented by multiple code engines like [codechef](codechef.com), [hackerrank](hackerrank.com), etc. It is a well thought and built approach and does not even use deep neural nets for the purpose. They have also hosted a [trial platform](http://petiteprogrammer.com/) where you can test their model.
+
+## Deep Gold
+
+Deep learning on images has been around for sometime right now and we have seen some really impressive results. Similarly for finding locations that may have minerals or oil, satellite images are used, they are judged by geologists, who give a conclusion. The author [here](https://hackernoon.com/deep-gold-using-convolution-networks-to-find-minerals-aafdb37355df#.bzdqahgbh) has developed a convolutional net that when trained, tells you the possible locations of a goldmine field. Though the results are not really impressive, but it has shown what more we can expect from DL in next few years. DL to find Oil is coming soon.
