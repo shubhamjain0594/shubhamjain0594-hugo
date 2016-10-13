@@ -13,7 +13,7 @@ paginate = 10
 [params]
   # Shown in the home page
   subtitle = "A peek into my life"
-  brand = "shubhamjain0594"
+  brand = "S.J."
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "shubhamjain0594-github-io"
   # CSS name for highlight.js
