@@ -1,7 +1,7 @@
 +++
 date = "2016-11-12T18:13:08+05:30"
 draft = false
-title = "hugo larochelle ted"
+title = "Hugo Larochelle TEDx"
 tags = ["deep-learning","journey","video"]
 +++
 
