@@ -25,8 +25,10 @@ Manage your time. When you study, only study ( the thing I did wrong, I tried to
 
 Never ever be satisfied with anything at least for this 4 years. And if you think you are doing something wrong. Rectify it, a mistake is a mistake if done once, twice. More than twice its a habit. No bad habit is good. And academics matter a lot. Even if you know good designing, might be good in a lot of things. But if you are not good in academics, you will miss out on a bunch of things. Do not measure goodness by CPI, CPI is fake. Measure it through the knowledge of subjects. Understanding of the subjects. And don’t make any presumptions of future from the first year. You don’t have any knowledge about anything. You love something, but you have just seen it from one side and it’s one perspective. And to keep all doors open, you have to be good at all doors. Not best but good.
 
+Always remember -
+
 > Life is very simple, we make it complicated.
 
-Another quote in Hindi:
+Another quote in Hindi -
 
 > “Halki Fulki si hai Zindagi, Bojh toh sirf Khwaishon ka hai.”
