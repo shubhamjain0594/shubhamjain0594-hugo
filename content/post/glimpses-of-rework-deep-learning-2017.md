@@ -7,6 +7,8 @@ tags = ["deep-learning", "conference"]
 
 Last week of April 2017, I was attending [Re-work Deep Learning Summit](https://re-work.co/events/deep-learning-summit-singapore-april-2017) in Singapore. I was representing Qure.ai and speaking about some of the work we have been doing in this field. The conference had speakers from [Google Deepmind](https://deepmind.com), [Baidu Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/), [Facebook](http://facebook.com); startups such as [Kata.ai](http://www.kata.ai), [SmartCow.ai](http://www.smartcow.ai); investor firms such as [Zeroth.ai](https://www.zeroth.ai), etc. In this post, I will introduce to you about all the impressive ideas I learned about in the conference.
 
+{{% fluid_img src="/img/re-work.jpg" caption="Building Models you can Trust" %}}
+
 In a talk demonstrating use-case of [PAI - Platform for AI](https://intl.aliyun.com) via AliMe, two ideas that caught me up where:
 
 - Lazy Multiplication for Communication Optimization in Cloud
