@@ -1,7 +1,7 @@
 +++
 date = "2017-05-26T00:14:56+05:30"
 draft = false
-title = "Glimpses of Re-Work Deep Learning Summit - Singapore, 2017"
+title = "A Glimpse of Re-Work Deep Learning Summit - Singapore, 2017"
 tags = ["deep-learning", "conference"]
 +++
 
