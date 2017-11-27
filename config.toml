@@ -49,6 +49,11 @@ paginate = 10
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 3
     url = "/contact/"
+  [[menu.main]]
+    name = "My Work"
+    pre = "<i class='fa fa-television fa-fw'></i>"
+    weight = 4
+    url = "/work/"
 
 [social]
   # Link your social networking accounts to the side menu
