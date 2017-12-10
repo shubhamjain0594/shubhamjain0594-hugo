@@ -5,6 +5,25 @@ title = "Contributions so far"
 
 +++
 
+## Interpreting Neural Networks, Qure.ai
+
+{{% fluid_img src="/img/work/interpretability.png" caption="Interpreting Neural Networks" class="pure-u-1-1 center-img" %}}
+
+Interpretability of neural networks is a major challenge and is as well an integral component of the Chest X-Rays diagnostic solution at Qure.ai. I developed an internal library implementing various papers on interpretability to generate heatmaps and ensuring that these algorithms are compatible with all the models being developed. Our paper, in regards to this work, was presented in [RSNA 2017](https://rsna2017.rsna.org/) which is the largest radiology conference in the world with 50k+ attendees. The paper received [Roadie 2017 award](http://www.auntminnie.com/index.aspx?sec=road&sub=aic_2017&pag=dis&itemId=118767) for the most popular abstract by page views by *auntminnie.com*. The work has been very well summarised in [this blog](http://www.auntminnie.com/index.aspx?sec=sup&sub=aic&pag=dis&ItemID=119347#_=_) post.
+
+Another blog post, written by my team, introducing various visualization algorithms can be found [here](http://blog.qure.ai/notes/visualizing_deep_learning).
+
+## Kaggle Ultrasound Nerve Segmentation Challenge, Qure.ai
+
+{{% fluid_img src="/img/work/kaggle.png" caption="Kaggle Ultrasound Nerve Segmentation Challenge" class="pure-u-1-1 center-img" %}}
+
+My first [Kaggle competition](https://www.kaggle.com/competitions) and first experience with deep learning. We finished [28th on the leaderboard](https://www.kaggle.com/c/ultrasound-nerve-segmentation/leaderboard) out of 923 participants. Our solution was an ensemble of modified [U-Net](https://arxiv.org/abs/1505.04597) and [Fully Connvolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211). We released a [tutorial on torchnet](http://blog.qure.ai/notes/ultrasound-nerve-segmentation-using-torchnet) which can be used to start with this competition.
+
+## X-Scan, Automated Chest X-Ray Diagnosis, Hack InOut 4.0 Winners
+
+{{< fluid_imgs "pure-u-1-2|/img/work/arbitrium.png|Arbitrium" "pure-u-1-2|/img/work/hackinout.jpg|Hack InOut 4.0" >}}
+
+
 ## Real-Time Air Quality Monitoring Network, 2015-16, IIT Bombay
 
 {{% fluid_img src="/img/work/20150914_233922.jpg" caption="Building Real-Time Air Quality Monitors" %}}
@@ -24,11 +43,5 @@ The project was presented to then Hon. Minister of Environment, Mr. Prakash Java
 
 
 ## Comparison of Evolutionary Strategies for Othello, IIT Bombay
-
-## Kaggle Ultrasound Nerve Segmentation Challenge, Qure.ai
-
-## Interpreting Neural Networks, Qure.ai
-
-## Open Source Chest X-Ray Diagnostic Solution, Self Project
 
 ## Halite and Hack-man, Self Project
