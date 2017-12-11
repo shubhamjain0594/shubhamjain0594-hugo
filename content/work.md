@@ -13,12 +13,6 @@ Interpretability of neural networks is a major challenge and is as well an integ
 
 Another blog post, written by my team, introducing various visualization algorithms can be found [here](http://blog.qure.ai/notes/visualizing_deep_learning).
 
-## Kaggle Ultrasound Nerve Segmentation Challenge, Qure.ai
-
-{{% fluid_img src="/img/work/kaggle.png" caption="Kaggle Ultrasound Nerve Segmentation Challenge" class="pure-u-1-1 center-img" %}}
-
-My first [Kaggle competition](https://www.kaggle.com/competitions) and first experience with deep learning. We finished [28th on the leaderboard](https://www.kaggle.com/c/ultrasound-nerve-segmentation/leaderboard) out of 923 participants. Our solution was an ensemble of modified [U-Net](https://arxiv.org/abs/1505.04597) and [Fully Connvolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211). We released a [tutorial on torchnet](http://blog.qure.ai/notes/ultrasound-nerve-segmentation-using-torchnet) which can be used to start with this competition.
-
 ## Automated Cardiac Delineation Challenge, MICCAI 2017, Qure.ai
 
 {{< fluid_imgs "pure-u-1-1|/img/work/acdc2017_gif.gif|ACDC 2017" >}}
@@ -30,6 +24,16 @@ The paper "[ 2D-3D Fully Convolutional Neural Networks for Cardiac MR Segmentati
 ## X-Scan, Automated Chest X-Ray Diagnosis, Hack InOut 4.0 Winners
 
 {{< fluid_imgs "pure-u-1-2|/img/work/arbitrium.png|Arbitrium" "pure-u-1-2|/img/work/hackinout.jpg|Hack InOut 4.0" >}}
+
+For [Hack InOut 4.0](https://hackinout.co/), India's biggest community hackathon, we built an end-to-end chest x-ray diagnostic solution trained on [CXR8 dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC) consisting of 100k+ Chest X-Rays. Our model predicted the accuracies of existence of each tag and as well segmented out the area of importance. Thus, doctors not only see probabilities but also why does the model predict so, what area of image has influenced it's decisions. This was largely inspired from my work on Chest X-Rays at Qure.ai.
+
+More details about the project can be found [here](https://devpost.com/software/xscan).
+
+## Kaggle Ultrasound Nerve Segmentation Challenge, Qure.ai
+
+{{% fluid_img src="/img/work/kaggle.png" caption="Kaggle Ultrasound Nerve Segmentation Challenge" class="pure-u-1-1 center-img" %}}
+
+My first [Kaggle competition](https://www.kaggle.com/competitions) and first experience with deep learning. We finished [28th on the leaderboard](https://www.kaggle.com/c/ultrasound-nerve-segmentation/leaderboard) out of 923 participants. Our solution was an ensemble of modified [U-Net](https://arxiv.org/abs/1505.04597) and [Fully Connvolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211). We released a [tutorial on torchnet](http://blog.qure.ai/notes/ultrasound-nerve-segmentation-using-torchnet) which can be used to start with this competition.
 
 
 ## Real-Time Air Quality Monitoring Network, 2015-16, IIT Bombay
