@@ -19,6 +19,14 @@ Another blog post, written by my team, introducing various visualization algorit
 
 My first [Kaggle competition](https://www.kaggle.com/competitions) and first experience with deep learning. We finished [28th on the leaderboard](https://www.kaggle.com/c/ultrasound-nerve-segmentation/leaderboard) out of 923 participants. Our solution was an ensemble of modified [U-Net](https://arxiv.org/abs/1505.04597) and [Fully Connvolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211). We released a [tutorial on torchnet](http://blog.qure.ai/notes/ultrasound-nerve-segmentation-using-torchnet) which can be used to start with this competition.
 
+## Automated Cardiac Delineation Challenge, MICCAI 2017, Qure.ai
+
+{{< fluid_imgs "pure-u-1-1|/img/work/acdc2017_gif.gif|ACDC 2017" >}}
+
+We participated in [Automated Cardiac Delineation Challenge 2017](https://www.creatis.insa-lyon.fr/Challenge/acdc/) where the objective was segmentation of Left Ventricle, Right Ventricle and Myocardium in a Cardiac MRI taken during Systolic as well as Diastolic phase. We proposed a Dice Loss function that inherently handles the class imbalance problem in Medical Image Segmentation, unlike the Cross Entropy Loss functions where we have to specify weights to handle imbalance.
+
+The paper "[ 2D-3D Fully Convolutional Neural Networks for Cardiac MR Segmentation](https://arxiv.org/abs/1707.09813)" was presented in [STACOM 2017 Workshop](http://stacom2017.cardiacatlas.org/) in MICCAI 2017.
+
 ## X-Scan, Automated Chest X-Ray Diagnosis, Hack InOut 4.0 Winners
 
 {{< fluid_imgs "pure-u-1-2|/img/work/arbitrium.png|Arbitrium" "pure-u-1-2|/img/work/hackinout.jpg|Hack InOut 4.0" >}}
