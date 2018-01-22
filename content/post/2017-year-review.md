@@ -104,7 +104,7 @@ I started with Indore, visiting a marriage with my family, from there I left for
     <figcaption>Spending my last few days of the year in the serenity of Sikkim.</figcaption>
 </figure>
 
-As the year came to an end, I see back. I lost a lot of people in my life in this year. I took a decision that will shape my next years to come. And I changed from a person who was scared to try new things and always worried about money to someone who was ready to take calculated risks. I gained a lot of skills, a lot of new people some of whom might become the key people in years to come, had some exciting experiences and lived numerous stories to tell. I wish my this year and years to come give me not just similar but more better experiences.
+As the year came to an end, I see back. I lost a lot of people in my life in this year. I took a decision that will shape my next years to come. And I changed from a person who was scared to try new things and always worried about money to someone who was ready to take calculated risks. I gained a lot of skills, a lot of new people some of whom might become play a key role in years to come, had some exciting experiences and lived numerous stories to tell. I wish my this year and years to come give me not just similar but more better experiences.
 
 <figure>
     <img style="width:100%;" src="/img/year2017/sunset.JPG">
