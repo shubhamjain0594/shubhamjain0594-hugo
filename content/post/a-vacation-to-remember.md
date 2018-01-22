@@ -1,7 +1,7 @@
 +++
 date = "2017-09-25T07:00:41+05:30"
 draft = true
-title = "a vacation to remember"
+title = "A Vacation To Remember"
 tags = ["life"]
 +++
 
