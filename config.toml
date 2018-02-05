@@ -54,6 +54,11 @@ paginate = 10
     pre = "<i class='fa fa-television fa-fw'></i>"
     weight = 4
     url = "/work/"
+  [[menu.main]]
+    name = "CV"
+    pre = "<i class='fa fa-file fa-fw'></i>"
+    weight = 4
+    url = "/img/CV.pdf"
 
 [social]
   # Link your social networking accounts to the side menu
