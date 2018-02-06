@@ -1,9 +1,10 @@
----
-title: "2017 - Year Review"
-date: 2018-01-21T20:28:23+05:30
-draft: false
-tags: ["life", "experiences"]
----
++++
+date = "2018-01-21T20:28:23+05:30"
+title = "2017 - Year Review"
+description = "A complete year review describing my journey through 2017."
+draft = false
+tags = ["life", "experiences"]
++++
 
 I spent my last day of the year 2017, sitting on the main road of the Gangtok city, calling and talking with people who made my year one the most memorable ones. I will remember 2017 as the year when I published my [first research paper](https://arxiv.org/abs/1707.09813), received invitation to speak at my [first international conference](https://www.re-work.co/events/deep-learning-summit-singapore-april-2017/schedule#day_2), created a [2000+ strong AI community in Mumbai](https://github.com/qureai/mumbai-ai-meetup), my first road trip and leaving my first job. 
 
