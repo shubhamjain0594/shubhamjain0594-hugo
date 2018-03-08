@@ -2,6 +2,7 @@
 title: "TL;DR - What Google Learned From Its Quest to Build Perfect Team"
 date: 2018-03-08T11:20:28Z
 draft: false
+tags: ["tl;dr", "article", "productivity"]
 ---
 
 **Article**
