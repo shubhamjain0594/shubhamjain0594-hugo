@@ -1,7 +1,7 @@
 ---
 title: "KiM - How to Write First Class Paper"
 date: 2018-03-17T11:20:27Z
-draft: true
+draft: false
 tags: ["kim", "article", "productivity"]
 ---
 
