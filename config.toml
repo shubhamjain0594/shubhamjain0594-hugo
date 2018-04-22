@@ -45,6 +45,12 @@ paginate = 10
     identifier = "about"
     url = "/about/"
   [[menu.main]]
+      name = "My Travels"
+      pre = "<i class='fa fa-user fa-fw'></i>"
+      weight = 2
+      identifier = "travel"
+      url = "/travel/"
+  [[menu.main]]
     name = "Contact"
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 3
