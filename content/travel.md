@@ -1,18 +1,26 @@
 +++
 date = "2016-09-12T16:15:55+05:30"
 draft = false
-title = "About"
+title = "My Travels"
 +++
 
-## Sikkim Trip
+Listing down all the trips I have made so far.
+
+# EuroTrip #1 [6][7][8]
+
+# Scotland [5] Trip
+
+# Delhi Trip
+
+# Sikkim Trip
 
 Backpacking trip to Sikkim.
 
-### Duration
+## Duration
 
 10D, 9N
 
-### Itinerary
+## Itinerary
 
 - Day 1 - Reach Bagdogra, Take Cab reach Gangtok
 - Day 2 - Sightseeing in Gangtok
@@ -25,7 +33,45 @@ Backpacking trip to Sikkim.
 - Day 9 - Reach Darjeeling
 - Day 10 - Flight from Bagdogra
 
-### Travel Map
+## Travel Map
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1EnxmoUcbzXASsEkGs_tIxPJpG3vLD-_E" width="640" height="480"></iframe>
 
+# Agra, Delhi, Rishikesh, Mussoorie
+
+# Rajasthan Trip
+
+# Himachal Pradesh Trip
+
+# Kerala trip
+
+# Others
+
+Other cities and countries I have been to include
+
+## South Korea [2]
+
+- Suwon 
+- Seoul
+- Busan
+
+## Singapore [1]
+
+## Hong Kong [3]
+
+# Country List
+
+- Singapore
+- South Korea
+- Hong Kong
+- England
+- Scotland
+- Italy
+- Croatia
+- Slovenia
+
+# Airport Touchdowns
+
+- Thailand
+- Taiwan
+- UAE
