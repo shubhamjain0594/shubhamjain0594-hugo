@@ -8,9 +8,15 @@ Listing down all the trips I have made so far.
 
 # EuroTrip #1 [6][7][8]
 
+## Travel Map
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1ddicSuXdcbsLScJRFdVauV90EFw7FCe6" width="640" height="480"></iframe>
+
 # Scotland [5] Trip
 
 # Delhi Trip
+
+Seeing Delhi with my sister, and looking at [Republic Day parade](https://en.wikipedia.org/wiki/Delhi_Republic_Day_parade) from the stands. A thing to check out from my bucket list. 
 
 # Sikkim Trip
 
