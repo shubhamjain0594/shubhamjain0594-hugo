@@ -8,9 +8,24 @@ Listing down all the trips I have made so far.
 
 # EuroTrip #1 [6][7][8]
 
+## Duration
+
+9D, 8N
+
 ## Travel Map
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1ddicSuXdcbsLScJRFdVauV90EFw7FCe6" width="640" height="480"></iframe>
+
+## Itinerary
+
+- Day 1 - Reach Rome in early morning, Check-in and go around to visit Basilica of the Santa Maria, Colosseum, Altar of the Fatherland, Trevi Fountain. If time permits, you can visit St. Peter's Square (Vatican City) in evening. Most travel is by foot, take train/bus for Vatican City.
+- Day 2 - Take flight from Rome to Dubrovnik, Check-in, go around the City, Check out beaches at Babin Kuk
+- Day 3 - Go to old city Dubrovnik, Check out GOT things, take Wall tour, visit Lovrijenac Fort as sun sets.
+- Day 4 - Take bus to reach Split Islands. Go around city center, chill around the coast and have dinner in some of the sea facing restaurants. You can as well explore the the streets going through old city.  
+- Day 5 - Take a bus to Trogir island for Scuba Diving, as you come back in evening you can watch sunset from the Kamerlengo Castle and take bus back to Split.
+- Day 6 - Go around Marjan Park and beaches along the coast of Split Island.
+- Day 7 - Take bus to Plitvic National Park in early morning to reach by noon, you can do a 5 hour trail around the Lakes and Waterfalls in Plitvic National Park. Advised to book accommodation nearby any gates. Uber does not exist here, nor any taxis.
+- Day 8 - Take a bus to Ljubljana via Zagreb, reach Ljubljana by late afternoon (expect delays in immigration), check-in, chill out and go around the city river to view a great architecture spread around the city.
 
 # Scotland [5] Trip
 
