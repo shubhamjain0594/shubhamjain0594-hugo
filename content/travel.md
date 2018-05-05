@@ -82,6 +82,7 @@ Other cities and countries I have been to include
 
 # Country List
 
+- India
 - Singapore
 - South Korea
 - Hong Kong
@@ -91,8 +92,9 @@ Other cities and countries I have been to include
 - Croatia
 - Slovenia
 
-# Airport Touchdowns
+# Touchdowns (Airport / Bus Passing through)
 
 - Thailand
 - Taiwan
 - UAE
+- Bosnia and Herzegovina
