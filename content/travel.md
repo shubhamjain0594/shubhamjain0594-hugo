@@ -61,6 +61,14 @@ Backpacking trip to Sikkim.
 
 # Agra, Delhi, Rishikesh, Mussoorie
 
+## Itinerary
+
+6D, 5N
+
+## Travel Map
+
+<iframe src="https://www.google.com/maps/d/embed?mid=13z9Se3mNbSYMDfB1ylSxnHEkyJPzijqK" width="640" height="480"></iframe>
+
 # Rajasthan Trip
 
 # Himachal Pradesh Trip
