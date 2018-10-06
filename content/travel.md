@@ -100,6 +100,7 @@ Other cities and countries I have been to include
 - Italy
 - Croatia
 - Slovenia
+- France
 
 # Touchdowns (Airport / Bus Passing through)
 
@@ -107,3 +108,5 @@ Other cities and countries I have been to include
 - Taiwan
 - UAE
 - Bosnia and Herzegovina
+- Germany
+- Belgium
