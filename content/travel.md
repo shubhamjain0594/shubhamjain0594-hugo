@@ -1,7 +1,7 @@
 +++
 date = "2016-09-12T16:15:55+05:30"
 draft = false
-title = "My Travels"
+title = "Travels"
 +++
 
 Listing down all the trips I have made so far.

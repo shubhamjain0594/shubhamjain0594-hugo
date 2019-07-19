@@ -9,7 +9,7 @@ These are my notes from watching the video [Differential Privacy at Scale: Uber 
 
 ### Attack Surface:
 
-SQL Database with trips
+SQL Database with trips.
 
 ### Attacks:
 

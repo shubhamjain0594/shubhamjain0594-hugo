@@ -14,8 +14,8 @@ paginate = 10
   # Shown in the home page
   subtitle = "A peek into my life"
   brand = "S.J."
-  googleAnalytics = "UA-87937727-1"
-  disqus = "shubhamjain0594-github-io"
+  # googleAnalytics = "UA-87937727-1"
+  # disqus = "shubhamjain0594-github-io"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
@@ -26,12 +26,6 @@ paginate = 10
 
 [menu]
   # Shown in the side menu.
-  [[menu.main]]
-    name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
-    weight = 0
-    identifier = "home"
-    url = "/"
   [[menu.main]]
     name = "Posts"
     pre = "<i class='fa fa-list fa-fw'></i>"
@@ -51,16 +45,6 @@ paginate = 10
       identifier = "travel"
       url = "/travel/"
   [[menu.main]]
-    name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 3
-    url = "/contact/"
-  [[menu.main]]
-    name = "My Work"
-    pre = "<i class='fa fa-television fa-fw'></i>"
-    weight = 4
-    url = "/work/"
-  [[menu.main]]
     name = "CV"
     pre = "<i class='fa fa-file fa-fw'></i>"
     weight = 4
@@ -74,7 +58,7 @@ paginate = 10
   twitter = "shubhamjain0594"
   # gnusocial = "*" # Specify href (e.g. https://quitter.se/yourusername)
   # facebook = "*"
-  googleplus = "ShubhamJain0594"
+  # googleplus = "ShubhamJain0594"
   # weibo = "*"
 
   # SNS photo/video sharing
@@ -91,12 +75,12 @@ paginate = 10
   # xing = "*"
 
   # SNS news
-  reddit = "shubhamjain0594"
-  hackernews = "shubhamjain0594"
+  # reddit = "shubhamjain0594"
+  # hackernews = "shubhamjain0594"
 
   # Techie
   github = "shubhamjain0594"
-  bitbucket = "shubham_jain"
+  # bitbucket = "shubham_jain"
   stackoverflow = "shubhamjain094"
   # serverfault = "*"
 
