@@ -2,7 +2,7 @@
 date = "2016-11-23T17:38:15+05:30"
 draft = false
 title = "Deep Learning and AI videos"
-tags = ["deep-learning", "videos"]
+tags = ["deep-learning", "video"]
 +++
 
 I like to hear things in my background while I am working. Music seems pleasure but sometimes also a distraction. At such points I play some good random videos in background. These help me in gaining new knowledge but at the same time does not distract me from work. I have compiled a small list of such videos in deep learning that I have heard so far and loved them. Will go on adding more.

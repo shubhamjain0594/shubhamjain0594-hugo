@@ -21,10 +21,10 @@ We reached Red Fort only to realise it was closed because of Monday. And Red For
 
 We woke up at 5, took the stuff and left for New Delhi Railway Station. I love train journeys. Chair Car journey was beautiful. We had our seats in different coaches, I had a talk with in-charge and got shifted to a seat behind hers. She had spent most of her traveling time in sleep. My grandfather and grandmother live in Agra. He had come to pick us up. Once we reached Agra, we went with them to their place, she saw Agra in that time. Number of cows went up but traffic was low, honking was almost negligible on the way. We took jalebi while on way and moved home, where we met my grandmother, she saw the home, took photos, and also went around to meet the neighbours. I haven't seen them yet. My grandmother asked if she is my girlfriend, I replied negative - just a really good friend. We had some talks, huge breakfast, she gave gifts to my grandparents that she had brought for them. We concluded that all grandparents across countries are same - they take a good care of you, serve you with huge amounts of food and ask you if you need anything every 10 mins. That time we spent there was beautiful. Next plan was to visit Taj Mahal, then Agra Fort, come back to home, have lunch, chill out a bit, go to market and then leave back to Delhi. We had bus that night from Delhi to Rishikesh.
 
-We started our tour of Taj Mahal, where foreigners are charged Rs. 1000 while Indians are charged Rs. 40. Since it was still morning, the crowd was minimal. Journey to Taj Mahal and roaming inside is equivalent to a long walk. We spent nearly 3 hours there, took pics, discussed history of the place, the beauty of the structure, saw Yamuna river on the back, then talked about Visa regulations in Europe and US and how they are preference for STEM degrees compared to others like Communications or Arts. Why STEM gets such an amount of funding, is it really more important than other degrees. Importance of communication and language in our daily life.
+We started our tour of Taj Mahal, where foreigners are charged Rs. 1000 while Indians are charged Rs. 40. Since it was still morning, the crowd was minimal. Journey to Taj Mahal and roaming inside is equivalent to a long walk. We spent nearly 3 hours there, took pics, discussed history of the place, the beauty of the structure, saw Yamuna river on the back, then talked about Visa regulations in Europe and US and the preference for STEM degrees compared to others like Communications or Arts. Why STEM gets such an amount of funding, is it really more important than other degrees. Importance of communication and language in our daily life.
 
+## Learnings and Memories
 
-Learnings and Memories
 - The idea of success
 - Importance of living in another country
 - Accepting other cultures
@@ -33,7 +33,7 @@ Learnings and Memories
 - Being caring and thoughtful of others
 - Being enthusiastic
 - Marriage conditions
-- Being self-aware and confident 
+- Being self-aware and confident
 - Soda in Agra
 - Water Rappeling in Rishikesh
 - The dark walk in Rishikesh
